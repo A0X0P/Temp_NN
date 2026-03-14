@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.jupyter/
+*.nbconvert.ipynb
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+.venv/
+.virtualenvs/
+
